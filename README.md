@@ -3,7 +3,7 @@ optimization 및 integration의 통계적 방법 R로 구현
 
 수업 내용
 
-전반부 : Optimization : Numerical Approximation , local search, heuristic, meta heuristic
+전반부 : Optimization : Numerical Approximation , local search, heuristic, meta heuristic, K-means, EM_algorithm
 
 후반부 : Integration : Sampling and MCMC
 
