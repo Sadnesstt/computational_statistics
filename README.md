@@ -5,7 +5,7 @@ optimization 및 integration의 통계적 방법 R로 구현
 
 전반부 : Optimization : Numerical Approximation , local search, heuristic, meta heuristic, K-means, EM_algorithm
 
-후반부 : Integration : Sampling and MCMC
+후반부 : Integration : Monte_Carlo - 1) Sampling 2) Variance/ Monte_Carlo_Markov_Chain 1) MH 2) Gibbs
 
 기말프로젝트
 
